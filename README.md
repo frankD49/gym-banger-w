@@ -1,7 +1,8 @@
 # gym-banger-w
 
 Pacing your activity from your watch!
-Privacy Policy for GymBangerW
+
+# Privacy Policy for GymBangerW
 
 Effective Date: 16/11/2024
 
